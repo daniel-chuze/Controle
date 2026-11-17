@@ -136,7 +136,7 @@ export default function App() {
             </View>
           </Pressable>
         ))}
-        <Text style={{ ...S.sub, marginTop: 14 }}>Nos dias difíceis, faz só o mínimo: 10 flexões, 5 min de espanhol, 1 capítulo, 20 min de código.</Text>
+        <Text style={{ ...S.sub, marginTop: 14 }}>Nos dias difíceis, faz só o mínimo: 10 flexões, 10 min de espanhol, 1 capítulo, 20 min de código.</Text>
       </View>
     );
   };
